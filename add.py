@@ -38,7 +38,7 @@ df_partidas = 'https://raw.githubusercontent.com/chrismse19/proyecto_progra/refs
 URL_DATOS_PAISES = 'datos/paises.gpkg'
 
 # Título de la app
-st.title("Análisis de Datos Globales")
+st.title("Transporte de viajes aéreos")
 
 # Función para cargar los datos con caché
 @st.cache_data
